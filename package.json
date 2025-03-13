@@ -1,0 +1,14 @@
+{
+  "name": "brick-breaker-game",
+  "version": "1.0.0",
+  "description": "Simple brick breaker game",
+  "main": "index.html",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
